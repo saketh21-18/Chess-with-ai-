@@ -1,1 +1,1 @@
-
+# Chess with AI A pure Python chess game featuring an AI opponent using Minimax and Alpha-Beta Pruning. ## Features - Human vs AI - Legal chess moves - Check and checkmate - Castling - Pawn promotion - Minimax AI - Alpha-Beta Pruning ## Run python main.py
